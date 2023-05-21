@@ -1,4 +1,4 @@
-# Class Scheduling System v1.0 by has reflected cross site scripting vulnerability
+# Class Scheduling System v1.0 has reflected cross site scripting vulnerability
 
 BUG_Author: joicygiore
 
