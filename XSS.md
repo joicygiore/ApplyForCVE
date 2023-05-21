@@ -1,8 +1,4 @@
-# Class Scheduling System v1.0 has reflected cross site scripting vulnerability
-
 BUG_Author: joicygiore
-
-Website source address: https://www.sourcecodester.com/php/5175/class-scheduling-system.html
 
 Vulnerability File: /online_class_scheduling_system/search_teacher_result.php
 
